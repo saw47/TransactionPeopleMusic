@@ -1,9 +1,10 @@
+fun main() {
+    //задание 1
+    //решил не упрощать и сделал всё по картинке из VK. Там правда не все условия описаны, но всё что написано обработал
+    startTransactionProcess()
+    //задание 2
+    peopleCounter()
+    //задание 3
+    buyMusic()
+}
 
-
-
-fun main(){
-        //задание 1
-        val vkPay = VK()
-        vkPay.startTransactionProcess()
-
-    }
